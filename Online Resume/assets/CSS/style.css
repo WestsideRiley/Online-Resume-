@@ -127,39 +127,12 @@ section{
   .tertiary-border{
     border-color: #304145;
   }
+/*Styling for the resume section of the page*/
 
-  .trainers {
+  .resume {
     text-align: center;
   }
 
-  .trainer {
-    width: 900px;
-    margin: 0 auto 30px auto;
-    background: #304145;
-    color: #BD3147;
-    overflow: auto;
-  }
-
-  .trainer img {
-    width: 35%;
-    float: left;
-  }
-  
-  .trainer-bio {
-    padding: 35px;
-    float: left;
-    width: 65%;
-  }
-
-  .text-left {
-    text-align: left;
-  }
-  
-  .text-right {
-    text-align: right;
-  }
-
- 
 /*Styling for the "Contact Me" Section of the page*/
 
   .contact {
