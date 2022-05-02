@@ -9,6 +9,8 @@ body{
     color: #304145;
 }
 
+/*styling for the header and navigation section of the page*/
+
 header {
     padding: 20px 35px;
     background-color: #304145;
@@ -43,7 +45,7 @@ header nav ul li a {
     font-size: 22px;
 }
 
-
+/*styling applied to the "about me" section of the page and the main banner*/
 
 section{
     padding: 60px;
@@ -66,6 +68,7 @@ section{
       font-size: 20px;
       margin: 0 auto;
   }
+/* styling for the "my Projects" section of the page*/
 
   .projects{
       text-align: center;
@@ -106,7 +109,9 @@ section{
     font-size: 38px;
 }
 
-  .section-title{
+/*styling rules applied to images and divs on the page*/
+
+ .section-title{
       font-size: 55px;
       color: #BD3147;
       margin-bottom: 35px;
